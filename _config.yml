@@ -39,7 +39,7 @@ plugins:
 paginate: 5
 
 # Minimal mistakes configuration
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "contrast"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
