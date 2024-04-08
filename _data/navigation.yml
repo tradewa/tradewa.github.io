@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://tradewa.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /about/
+  - title: "Projects"
+    url: /projects/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
