@@ -295,7 +295,11 @@ whitelist:
 paginate: 5
 
 # Minimal mistakes configuration
+<<<<<<< HEAD
 minimal_mistakes_skin: "contrast"
+=======
+minimal_mistakes_skin: "dark"
+>>>>>>> parent of 96b6127 (change skin back to default)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
