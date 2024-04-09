@@ -4,5 +4,5 @@ main:
     url: /projects/
   - title: "Writing"
     url: /writing/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Books"
+    url: /books/
