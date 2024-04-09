@@ -258,7 +258,7 @@ pre { overflow-x: auto; /* add scrollbars to wide code blocks*/ }
 hr { display: block; margin: 1em 0; border: 0; border-top: 1px solid #f2f3f3; }
 
 /* lists */
-ul li, ol li { margin-bottom: 0.5em; }
+ul li, ol li { margin-bottom: 0.25em; }
 
 li ul, li ol { margin-top: 0.5em; }
 
