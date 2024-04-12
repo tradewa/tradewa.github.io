@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
   - title: "Writing"
     url: /writing/
   # - title: "Books"
