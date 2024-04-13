@@ -3,7 +3,7 @@ layout: single
 title: What I Am Doing Now
 permalink: /now/
 ---
-This is a now page inspired by [nownownow.com](https://nownownow.com/). I will share a little bit of what I am doing right now.
+This page is to share a little bit of what I am doing right now.
 
 <hr>
 
