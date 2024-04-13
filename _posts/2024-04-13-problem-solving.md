@@ -5,8 +5,6 @@ date:   2024-04-13 11:45:10 +0700
 categories: business
 ---
 
-*No ChatGPT is used in the making of this article*
-
 Problem solving is one of the most important skills anyone in the working world can have. However, it is highly misunderstood due to its broad meaning and applications. People has been sticking "problem solving" to anything, any answer to any questions, that make even the smallest progress to current problem. In this article, I want to talk about a more specific kind of problem solving which has been discussed thoroughly in this book [Problem Solving 101](https://www.goodreads.com/book/show/6271219-problem-solving-101). 
 
 What is problem solving? Problem solving is a method that is applied to complex and ambiguous problem in order to tame it and make it easier to solve. Most of the time, complex problem are just easy problems stacked on top of each other. If we have the tools and capability to dissect the big problem into smaller more manageable problem, we can solve most problems. So, how do we do problem solving?
@@ -32,3 +30,5 @@ By breaking down the ultimate problem we are faced with a smaller, easier, and a
 
 ##### **Step 3: Actually solve the problem**
 If we already have simple enough problem to solve directly we can just go out and solve the problem. We can create hypothesis testing to prove/disprove certain hypothesis, we can collect data to support our hypothesis. After we have conclusion we can do the most appropriate action based on the conclusion. Do not forget in business the action is what actually matters.
+
+*No ChatGPT is used in the making of this article*
