@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/book/review/2024/04/08/what-is-life.html",
         "teaser": null
+      },{
+        "title": "Problem Solving in the Real (Working) World",
+        "excerpt":"No ChatGPT is used in the making of this article Problem solving is one of the most important skills anyone in the working world can have. However, it is highly misunderstood due to its broad meaning and applications. People has been sticking “problem solving” to anything, any answer to any...","categories": ["business"],
+        "tags": [],
+        "url": "/business/2024/04/13/problem-solving.html",
+        "teaser": null
       }]

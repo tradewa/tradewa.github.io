@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-13T11:28:32+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gharda Derrian Tradewa</title><entry><title type="html">Book Review: What is Life? by Erwin Schrödinger</title><link href="http://localhost:4000/book/review/2024/04/08/what-is-life.html" rel="alternate" type="text/html" title="Book Review: What is Life? by Erwin Schrödinger" /><published>2024-04-08T21:18:10+07:00</published><updated>2024-04-08T21:18:10+07:00</updated><id>http://localhost:4000/book/review/2024/04/08/what-is-life</id><content type="html" xml:base="http://localhost:4000/book/review/2024/04/08/what-is-life.html"><![CDATA[<p>How is life influenced by the laws of physics? This question was put forward by Erwin Schrödinger in his book <em>What is Life?</em>. Finding out the interconnection, or rather, the influence of physics as the fundamental laws in nature towards biological processes is his main goal in this book.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-13T12:02:16+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Gharda Derrian Tradewa</title><entry><title type="html">Problem Solving in the Real (Working) World</title><link href="http://localhost:4000/business/2024/04/13/problem-solving.html" rel="alternate" type="text/html" title="Problem Solving in the Real (Working) World" /><published>2024-04-13T11:45:10+07:00</published><updated>2024-04-13T11:45:10+07:00</updated><id>http://localhost:4000/business/2024/04/13/problem-solving</id><content type="html" xml:base="http://localhost:4000/business/2024/04/13/problem-solving.html"><![CDATA[<p><em>No ChatGPT is used in the making of this article</em></p>
+
+<p>Problem solving is one of the most important skills anyone in the working world can have. However, it is highly misunderstood due to its broad meaning and applications. People has been sticking “problem solving” to anything, any answer to any questions, that make even the smallest progress to current problem. In this article, I want to talk about a more specific kind of problem solving which has been discussed thoroughly in this book <a href="https://www.goodreads.com/book/show/6271219-problem-solving-101">Problem Solving 101</a>.</p>
+
+<p>What is problem solving? Problem solving is a method that is applied to complex and ambiguous problem in order to tame it and make it easier to solve. Most of the time, complex problem are just easy problems stacked on top of each other. If we have the tools and capability to dissect the big problem into smaller more manageable problem, we can solve most problems. So, how do we do problem solving?</p>
+
+<h5 id="step-1-understand-really-understand-the-problem-statement"><strong>Step 1: Understand, really understand, the problem statement</strong></h5>
+<p>The single most critical step in problem solving is to really understand the problem you are trying to solve. Often, people solve problem they don’t really understand and they end up solving different problem altogether. Believe me or not, sometimes the owner of the problem (for example your boss in the office who assigns you to do the problem solving) do not even have good grasps on the problem to solve himself. Therefore, you really need to clarify the problem at hand to your boss. This step can often trigger the problem owner to really think what problem he/she want to solve. One advice for understanding the problem statement is to try to formulate the problem in simple mathematical equation so you can agree on the metrics for the success of the problem solving</p>
+
+<h5 id="step-2-break-the-ultimate-problem-into-smaller-components"><strong>Step 2: Break the ultimate problem into smaller components</strong></h5>
+<p>Often enough the main problem that we are facing is too high level and abstract to be acted upon. For example: <em>“How can we increase revenue for our groceries line of business?”</em>. If we try to answer this directly we will spit out the most general answer with no direct action at all. It is much more helpful to first breakdown revenue problem to volume and price (this is too simple of a model but works for now). Example of problem breakdown:</p>
+<ul>
+  <li>How can we increase volume?
+    <ul>
+      <li>How can we increase transacting user?
+        <ul>
+          <li>How can we increase user acquisition?</li>
+          <li>How can we increase active existing user?</li>
+        </ul>
+      </li>
+      <li>How can we increase purchase frequency?
+        <ul>
+          <li>What product is the most popular? Can we push further its sales?</li>
+          <li>Should we create a next-order promotion?</li>
+        </ul>
+      </li>
+      <li>How can we increase average order value?
+        <ul>
+          <li>Can we create package promotion to increase number of purchased items?</li>
+          <li>Can we promote a more expensive items?</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>How can we increase price?</li>
+</ul>
+
+<p>By breaking down the ultimate problem we are faced with a smaller, easier, and a more direct problem to solve as listed above.</p>
+
+<h5 id="step-3-actually-solve-the-problem"><strong>Step 3: Actually solve the problem</strong></h5>
+<p>If we already have simple enough problem to solve directly we can just go out and solve the problem. We can create hypothesis testing to prove/disprove certain hypothesis, we can collect data to support our hypothesis. After we have conclusion we can do the most appropriate action based on the conclusion. Do not forget in business the action is what actually matters.</p>]]></content><author><name></name></author><category term="business" /><summary type="html"><![CDATA[No ChatGPT is used in the making of this article]]></summary></entry><entry><title type="html">Book Review: What is Life? by Erwin Schrödinger</title><link href="http://localhost:4000/book/review/2024/04/08/what-is-life.html" rel="alternate" type="text/html" title="Book Review: What is Life? by Erwin Schrödinger" /><published>2024-04-08T21:18:10+07:00</published><updated>2024-04-08T21:18:10+07:00</updated><id>http://localhost:4000/book/review/2024/04/08/what-is-life</id><content type="html" xml:base="http://localhost:4000/book/review/2024/04/08/what-is-life.html"><![CDATA[<p>How is life influenced by the laws of physics? This question was put forward by Erwin Schrödinger in his book <em>What is Life?</em>. Finding out the interconnection, or rather, the influence of physics as the fundamental laws in nature towards biological processes is his main goal in this book.</p>
 
 <p>He starts the conversation by stating that every organism is significantly bigger than atoms. This leads to the idea that the physics that influences the life of organisms is largely based on statistical physics, while quantum mechanics interaction is negligible. One other supporting argument for  this is quantum mechanics, with its randomness, is unlikely to influence organisms because we did not see living organisms randomly change all the time. </p>
 
