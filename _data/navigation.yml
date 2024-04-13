@@ -1,8 +1,9 @@
 # main links
 main:
+  - title: "Now"
+    url: /now/
   - title: "Projects"
     url: /projects/
   - title: "Writing"
     url: /writing/
-  # - title: "Books"
-  #   url: /books/
+  
